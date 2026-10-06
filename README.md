@@ -43,3 +43,7 @@ flowchart TB
 I build data systems in clinical research, where participant data, access control and auditability are everyday concerns. This paper shaped how I think about **role-based access, data minimisation and explainability** in health-data platforms. It also connects to my wider interest in **trustworthy and secure AI**.
 
 *Written for the Analytics: Ethics, Trust and Governance module of my MSc Big Data Analytics, University of Derby, 2024.*
+
+---
+
+More of my work: [github.com/JerryD19](https://github.com/JerryD19)
