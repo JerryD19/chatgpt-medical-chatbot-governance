@@ -2,6 +2,8 @@
 
 A research paper on what it takes to deploy a large language model (ChatGPT, versions 3–4) safely inside a **medical chatbot**. It maps the regulatory landscape (**EU AI Act, GDPR, HIPAA**), identifies the main governance, trust and ethical risks, and proposes a **governance framework** for healthcare organisations.
 
+**Business impact:** gives healthcare organisations a governance framework for deploying LLM chatbots. It maps **5 critical risks** against the EU AI Act, GDPR and HIPAA, so compliance, privacy and liability gaps can be closed before launch.
+
 📄 **[Read the full paper (PDF)](paper/chatgpt_medical_chatbot_governance.pdf)**
 
 ---
